@@ -39,4 +39,4 @@ If you cannot delete the data from the app, contact the address listed in the pr
 
 Please see:
 
-https://q-tech-gaming.github.io/q-reversi-privacy-policy/
+https://q-tech-gaming.github.io/q-reversi-privacy-policy/en/
